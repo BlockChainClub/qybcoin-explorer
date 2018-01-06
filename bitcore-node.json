@@ -16,6 +16,8 @@
         "datadir": "./data",
         "exec": "/usr/local/qyb/coin/bin/qybcoind"
       }
-    }
+    },
+"insight-ui":{
+"routePrefix":""}
   }
 }
