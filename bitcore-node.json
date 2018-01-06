@@ -1,0 +1,21 @@
+{
+  "network": "livenet",
+  "port": 3001,
+  "services": [
+    "bitcoind",
+    "insight-api",
+    "insight-ui",
+    "web"
+  ],
+  "servicesConfig": {
+    "bitcore-wallet-service": {
+      "bwsPort": 3232
+    },
+    "bitcoind": {
+      "spawn": {
+        "datadir": "./data",
+        "exec": "/usr/local/qyb/coin/bin/qybcoind"
+      }
+    }
+  }
+}
