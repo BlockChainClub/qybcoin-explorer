@@ -14,10 +14,11 @@
     "bitcoind": {
       "spawn": {
         "datadir": "./data",
-        "exec": "/usr/local/qyb/coin/bin/qybcoind"
+        "exec": "/home/ubuntu/qyb2/qybcoind"
       }
     },
-"insight-ui":{
-"routePrefix":""}
+    "insight-ui":{
+       "routePrefix":""
+    }
   }
 }
