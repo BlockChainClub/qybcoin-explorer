@@ -1,0 +1,7 @@
+data/blocks/*
+data/chainstate/*
+.lock
+db.log
+debug.log
+nohup.out
+npm-debug.log
