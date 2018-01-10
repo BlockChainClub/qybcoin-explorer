@@ -1,7 +1,13 @@
 data/blocks/
 data/chainstate/
+data/database/
 .lock
 db.log
 debug.log
 nohup.out
 npm-debug.log
+wallet.dat
+qybcoind.pid
+peers.dat
+fee_estimates.dat
+node_modules/**/build/
