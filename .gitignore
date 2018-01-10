@@ -1,5 +1,5 @@
-data/blocks/*
-data/chainstate/*
+data/blocks/
+data/chainstate/
 .lock
 db.log
 debug.log

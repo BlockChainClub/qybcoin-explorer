@@ -21738,3 +21738,227 @@ st=0000000099d4e950d62f28e54d18023ec92e41c6f7eb582ee49616d20e5668c4  height=4579
 2018-01-07 12:14:04 connect() to [2001:0:9d38:6ab8:df:71dd:20ae:3392]:18666 failed: Cannot assign requested address (99)
 2018-01-07 12:14:11 connect() to [2001:0:dcfa:40e1:1039:2d16:3f57:ffc0]:18666 failed: Cannot assign requested address (99)
 2018-01-07 12:14:17 connect() to [2001:da8:1002:3000::413:3208]:18666 failed: Cannot assign requested address (99)
+2018-01-10 13:10:34 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-01-10 13:10:34 Qybcoin version v0.12.1.0-g597c9b42e58c (Tue, 20 Sep 2016 10:16:42 -0400)
+2018-01-10 13:10:34 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2018-01-10 13:10:34 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2018-01-10 13:10:34 Default data directory /home/empty/.qybcoin
+2018-01-10 13:10:34 Using data directory /home/empty/develop/blockchanin/qybcoin-explorer/data
+2018-01-10 13:10:34 Using config file /home/empty/develop/blockchanin/qybcoin-explorer/data/bitcoin.conf
+2018-01-10 13:10:34 Using at most 125 connections (1048576 file descriptors available)
+2018-01-10 13:10:34 Using 2 threads for script verification
+2018-01-10 13:10:34 scheduler thread start
+2018-01-10 13:10:34 HTTP: creating work queue of depth 16
+2018-01-10 13:10:34 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2018-01-10 13:10:34 HTTP: starting 4 worker threads
+2018-01-10 13:10:34 Using wallet wallet.dat
+2018-01-10 13:10:34 init message: Verifying wallet...
+2018-01-10 13:10:34 CDBEnv::Open: LogDir=/home/empty/develop/blockchanin/qybcoin-explorer/data/database ErrorFile=/home/empty/develop/blockchanin/qybcoin-explorer/data/db.log
+2018-01-10 13:10:34 Bound to [::]:18666
+2018-01-10 13:10:34 Bound to 0.0.0.0:18666
+2018-01-10 13:10:34 Block index database configuration:
+2018-01-10 13:10:34 * Using 1000 max open files
+2018-01-10 13:10:34 * Compression is enabled
+2018-01-10 13:10:34 Cache configuration:
+2018-01-10 13:10:34 * Max cache setting possible 16384MiB
+2018-01-10 13:10:34 * Using 75.0MiB for block index database
+2018-01-10 13:10:34 * Using 12.5MiB for chain state database
+2018-01-10 13:10:34 * Using 12.5MiB for in-memory UTXO set
+2018-01-10 13:10:34 init message: Loading block index...
+2018-01-10 13:10:34 Opening LevelDB in /home/empty/develop/blockchanin/qybcoin-explorer/data/blocks/index
+2018-01-10 13:10:34 IO error: /home/empty/develop/blockchanin/qybcoin-explorer/data/blocks/index/MANIFEST-000098: No such file or directory
+2018-01-10 13:10:34 : Error opening block database.
+
+Do you want to rebuild the block database now?
+2018-01-10 13:10:34 Aborted block database rebuild. Exiting.
+2018-01-10 13:10:34 Shutdown: In progress...
+2018-01-10 13:10:34 scheduler thread interrupt
+2018-01-10 13:10:34 StopNode()
+2018-01-10 13:10:34 Shutdown: done
+2018-01-10 13:10:39 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-01-10 13:10:39 Qybcoin version v0.12.1.0-g597c9b42e58c (Tue, 20 Sep 2016 10:16:42 -0400)
+2018-01-10 13:10:39 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2018-01-10 13:10:39 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2018-01-10 13:10:39 Default data directory /home/empty/.qybcoin
+2018-01-10 13:10:39 Using data directory /home/empty/develop/blockchanin/qybcoin-explorer/data
+2018-01-10 13:10:39 Using config file /home/empty/develop/blockchanin/qybcoin-explorer/data/bitcoin.conf
+2018-01-10 13:10:39 Using at most 125 connections (1048576 file descriptors available)
+2018-01-10 13:10:39 Using 2 threads for script verification
+2018-01-10 13:10:39 scheduler thread start
+2018-01-10 13:10:39 HTTP: creating work queue of depth 16
+2018-01-10 13:10:39 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2018-01-10 13:10:39 HTTP: starting 4 worker threads
+2018-01-10 13:10:39 Using wallet wallet.dat
+2018-01-10 13:10:39 init message: Verifying wallet...
+2018-01-10 13:10:39 CDBEnv::Open: LogDir=/home/empty/develop/blockchanin/qybcoin-explorer/data/database ErrorFile=/home/empty/develop/blockchanin/qybcoin-explorer/data/db.log
+2018-01-10 13:10:39 Bound to [::]:18666
+2018-01-10 13:10:39 Bound to 0.0.0.0:18666
+2018-01-10 13:10:39 Block index database configuration:
+2018-01-10 13:10:39 * Using 1000 max open files
+2018-01-10 13:10:39 * Compression is enabled
+2018-01-10 13:10:39 Cache configuration:
+2018-01-10 13:10:39 * Max cache setting possible 16384MiB
+2018-01-10 13:10:39 * Using 75.0MiB for block index database
+2018-01-10 13:10:39 * Using 12.5MiB for chain state database
+2018-01-10 13:10:39 * Using 12.5MiB for in-memory UTXO set
+2018-01-10 13:10:39 init message: Loading block index...
+2018-01-10 13:10:39 Opening LevelDB in /home/empty/develop/blockchanin/qybcoin-explorer/data/blocks/index
+2018-01-10 13:10:39 IO error: /home/empty/develop/blockchanin/qybcoin-explorer/data/blocks/index/MANIFEST-000098: No such file or directory
+2018-01-10 13:10:39 : Error opening block database.
+
+Do you want to rebuild the block database now?
+2018-01-10 13:10:39 Aborted block database rebuild. Exiting.
+2018-01-10 13:10:39 Shutdown: In progress...
+2018-01-10 13:10:39 StopNode()
+2018-01-10 13:10:39 scheduler thread interrupt
+2018-01-10 13:10:39 Shutdown: done
+2018-01-10 13:10:44 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-01-10 13:10:44 Qybcoin version v0.12.1.0-g597c9b42e58c (Tue, 20 Sep 2016 10:16:42 -0400)
+2018-01-10 13:10:44 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2018-01-10 13:10:44 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2018-01-10 13:10:44 Default data directory /home/empty/.qybcoin
+2018-01-10 13:10:44 Using data directory /home/empty/develop/blockchanin/qybcoin-explorer/data
+2018-01-10 13:10:44 Using config file /home/empty/develop/blockchanin/qybcoin-explorer/data/bitcoin.conf
+2018-01-10 13:10:44 Using at most 125 connections (1048576 file descriptors available)
+2018-01-10 13:10:44 Using 2 threads for script verification
+2018-01-10 13:10:44 scheduler thread start
+2018-01-10 13:10:44 HTTP: creating work queue of depth 16
+2018-01-10 13:10:44 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2018-01-10 13:10:44 HTTP: starting 4 worker threads
+2018-01-10 13:10:44 Using wallet wallet.dat
+2018-01-10 13:10:44 init message: Verifying wallet...
+2018-01-10 13:10:44 CDBEnv::Open: LogDir=/home/empty/develop/blockchanin/qybcoin-explorer/data/database ErrorFile=/home/empty/develop/blockchanin/qybcoin-explorer/data/db.log
+2018-01-10 13:10:44 Bound to [::]:18666
+2018-01-10 13:10:44 Bound to 0.0.0.0:18666
+2018-01-10 13:10:44 Block index database configuration:
+2018-01-10 13:10:44 * Using 1000 max open files
+2018-01-10 13:10:44 * Compression is enabled
+2018-01-10 13:10:44 Cache configuration:
+2018-01-10 13:10:44 * Max cache setting possible 16384MiB
+2018-01-10 13:10:44 * Using 75.0MiB for block index database
+2018-01-10 13:10:44 * Using 12.5MiB for chain state database
+2018-01-10 13:10:44 * Using 12.5MiB for in-memory UTXO set
+2018-01-10 13:10:44 init message: Loading block index...
+2018-01-10 13:10:44 Opening LevelDB in /home/empty/develop/blockchanin/qybcoin-explorer/data/blocks/index
+2018-01-10 13:10:44 IO error: /home/empty/develop/blockchanin/qybcoin-explorer/data/blocks/index/MANIFEST-000098: No such file or directory
+2018-01-10 13:10:44 : Error opening block database.
+
+Do you want to rebuild the block database now?
+2018-01-10 13:10:44 Aborted block database rebuild. Exiting.
+2018-01-10 13:10:44 Shutdown: In progress...
+2018-01-10 13:10:44 scheduler thread interrupt
+2018-01-10 13:10:44 StopNode()
+2018-01-10 13:10:44 Shutdown: done
+2018-01-10 13:10:49 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-01-10 13:10:49 Qybcoin version v0.12.1.0-g597c9b42e58c (Tue, 20 Sep 2016 10:16:42 -0400)
+2018-01-10 13:10:49 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2018-01-10 13:10:50 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2018-01-10 13:10:50 Default data directory /home/empty/.qybcoin
+2018-01-10 13:10:50 Using data directory /home/empty/develop/blockchanin/qybcoin-explorer/data
+2018-01-10 13:10:50 Using config file /home/empty/develop/blockchanin/qybcoin-explorer/data/bitcoin.conf
+2018-01-10 13:10:50 Using at most 125 connections (1048576 file descriptors available)
+2018-01-10 13:10:50 Using 2 threads for script verification
+2018-01-10 13:10:50 scheduler thread start
+2018-01-10 13:10:50 HTTP: creating work queue of depth 16
+2018-01-10 13:10:50 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2018-01-10 13:10:50 HTTP: starting 4 worker threads
+2018-01-10 13:10:50 Using wallet wallet.dat
+2018-01-10 13:10:50 init message: Verifying wallet...
+2018-01-10 13:10:50 CDBEnv::Open: LogDir=/home/empty/develop/blockchanin/qybcoin-explorer/data/database ErrorFile=/home/empty/develop/blockchanin/qybcoin-explorer/data/db.log
+2018-01-10 13:10:50 Bound to [::]:18666
+2018-01-10 13:10:50 Bound to 0.0.0.0:18666
+2018-01-10 13:10:50 Block index database configuration:
+2018-01-10 13:10:50 * Using 1000 max open files
+2018-01-10 13:10:50 * Compression is enabled
+2018-01-10 13:10:50 Cache configuration:
+2018-01-10 13:10:50 * Max cache setting possible 16384MiB
+2018-01-10 13:10:50 * Using 75.0MiB for block index database
+2018-01-10 13:10:50 * Using 12.5MiB for chain state database
+2018-01-10 13:10:50 * Using 12.5MiB for in-memory UTXO set
+2018-01-10 13:10:50 init message: Loading block index...
+2018-01-10 13:10:50 Opening LevelDB in /home/empty/develop/blockchanin/qybcoin-explorer/data/blocks/index
+2018-01-10 13:10:50 IO error: /home/empty/develop/blockchanin/qybcoin-explorer/data/blocks/index/MANIFEST-000098: No such file or directory
+2018-01-10 13:10:50 : Error opening block database.
+
+Do you want to rebuild the block database now?
+2018-01-10 13:10:50 Aborted block database rebuild. Exiting.
+2018-01-10 13:10:50 Shutdown: In progress...
+2018-01-10 13:10:50 scheduler thread interrupt
+2018-01-10 13:10:50 StopNode()
+2018-01-10 13:10:50 Shutdown: done
